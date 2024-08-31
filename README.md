@@ -1,0 +1,1 @@
+Implementation for approach proposed in paper "A Fine-Grained Approach for Vulnerabilities Discovery using Augmented Vulnerability Signatures".
